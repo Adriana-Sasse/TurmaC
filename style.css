@@ -1,0 +1,137 @@
+body {
+    background-color: lightblue;
+}
+
+
+#foto {
+
+    height: 370px;
+    width: 740px;  
+    
+ }
+ 
+
+
+div {
+    
+    border-color: aliceblue;
+    text-align: center;
+    }
+
+
+
+h1 {
+    text-align: center;
+    font-size: 1cm;
+    
+    
+}
+
+
+
+p {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    
+}
+
+#eu {
+    font-variant: initial;
+    color: pink;
+    text-align: left;
+}
+
+
+
+
+
+/*
+
+#banner {
+    height: 10cm;
+    width: 20cm;
+}
+
+div {
+    
+border-block-start-color: pink;
+text-align: center;
+
+}
+*/
+
+
+
+
+
+
+
+
+h3 {
+    text-align: center;
+    font-size: medium;
+}
+
+
+h4 {
+    text-align: center;
+    font-size: medium;
+}
+
+
+h5 {
+   text-align: center;
+    font-size: medium;
+}
+h6 {
+   text-align: center;
+    font-size: medium;
+    border: 2px solid rgb(255, 0, 0);
+}
+    
+.fim {
+    text-align: center;
+    font-size: medium;
+
+}
+
+
+img {
+    height: 500px;
+    width: 1000px;
+
+
+}
+.segundafoto {
+    text-align: center;
+    border: 10px solid rgb(255, 200, 20);
+    margin: 10px;
+    padding-right: 10px;
+
+}
+.agricultor {
+    width: 30%;
+    text-align: center;
+    margin: auto;
+    
+}
+
+img {
+    height: 300px;
+    width: 600px;
+    
+}
+.foto {
+    text-align: center;
+    border: 1cm solid fuchsia;
+}
+
+
+.itens {
+    font-style: italic;
+    background-color: brown;
+}
+
